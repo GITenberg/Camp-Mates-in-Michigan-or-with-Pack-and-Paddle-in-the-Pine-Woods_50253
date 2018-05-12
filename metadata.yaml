@@ -1,4 +1,8 @@
 _repo: Camp-Mates-in-Michigan-or-with-Pack-and-Paddle-in-the-Pine-Woods_50253
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50253-h/images/cover.jpg
 creator:
   author:
     agent_name: Rathborne, St. George
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1599
     wikipedia: http://en.wikipedia.org/wiki/St._George_Rathborne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50253#Camp-Mates-in-Michigan-or-with-Pack-and-Paddle-in-the-Pine-Woods
 gutenberg_issued: '2015-10-19'
 gutenberg_type: Text
 identifiers:
